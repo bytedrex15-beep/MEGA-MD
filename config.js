@@ -1,7 +1,7 @@
 require('dotenv').config();
 
-global.SESSION_ID = process.env.SESSION_ID || "" // put your session id here
-global.PAIRING_NUMBER = process.env.PAIRING_NUMBER || "" // In Case if you don't have session id get pairing code by putting your number here
+global.SESSION_ID = process.env.SESSION_ID || "GlobalTechInfo/MEGA-MD_1346f5cbb1ab7f5e315bdc0773396a45" // put your session id here
+global.PAIRING_NUMBER = process.env.PAIRING_NUMBER || "255743140476" // In Case if you don't have session id get pairing code by putting your number here
 
 global.APIs = {
     xteam: 'https://api.xteam.xyz',
