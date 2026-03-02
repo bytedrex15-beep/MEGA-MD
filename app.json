@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "Put your session id",
       "required": true,
-      "value": ""
+      "value": "GlobalTechInfo/MEGA-MD_1346f5cbb1ab7f5e315bdc0773396a45"
     },
     "MONGO_URL": {
       "description": "Put if you have mongodb database url",
@@ -45,7 +45,7 @@
     "OWNER_NUMBER": {
       "description": "Your WhatsApp number",
       "required": false,
-      "value": "923000000000"
+      "value": "255743140476"
     },
     "COMMAND_MODE": {
       "description": "Bot mode",
